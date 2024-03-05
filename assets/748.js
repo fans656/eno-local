@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[748],{2748:(e,n,t)=>{t.r(n),t.d(n,{Sample:()=>u});var l=t(2769),r=t.n(l);function u({py:e}){const n=e.use();return r().createElement("div",null,r().createElement("h3",null,"Sample"),n)}}}]);
