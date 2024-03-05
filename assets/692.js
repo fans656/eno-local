@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[692],{6692:(e,n,r)=>{r.r(n),r.d(n,{default:()=>a});var t=r(2769),u=r.n(t);function a(){return u().createElement("div",null,"bar")}}}]);

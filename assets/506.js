@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[506],{1506:(n,e,s)=>{s.r(e),s.d(e,{name:()=>f});const f="fans656"}}]);
